@@ -1,0 +1,34 @@
+	<form name="contactform" action="email.php" method="Post">
+				  <div class="form-group">
+				    <input type="name" class="form-control" id="Name" placeholder="Your Name">
+				    <br>
+				  </div>
+				  <div class="form-group">
+				    <input type="email" class="form-control" id="email" placeholder="Enter email">
+				    <br>
+				  </div>
+				  <div class="form-group">
+				    <input type="text" class="form-control" id="Street" placeholder="Street">
+				    <br>
+				  </div>
+				  <div class="form-group">
+				    <input type="text" class="form-control" id="City" placeholder="City">
+				    <br>
+				  </div>
+				  				  
+				<div class="form-group">
+				    <input type="text" class="form-control" id="State" placeholder="State">
+				    <br>
+				  </div>
+				  <div class="form-group">
+				    <input type="text" class="form-control" id="ZipCode" placeholder="Zip Code">
+				    <br>
+				  </div>
+				  <div class="form-group">
+				    <input type="text" class="form-control" id="Phone" placeholder="Phone">
+				    <br>
+				  </div>
+				  <textarea class="form-control" rows="6" placeholder="Items You Like To Donate" id="ItemDonate"></textarea>
+				    <br>
+				  <input type="submit" value="Submit">
+				</form>    			
