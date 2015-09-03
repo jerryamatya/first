@@ -9,9 +9,17 @@
 		<ol>
 			<li>1</li>
 			<li>2</li>
-		</ol>
+		</ol>	
 	<li>two</li>
+	<ol>
+			<li>1</li>
+			<li>2</li>
+		</ol>
 	<li>three</li>
+	<ol>
+			<li>1</li>
+			<li>2</li>
+		</ol>
 </ul>
 </body>
 </html>
