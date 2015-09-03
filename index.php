@@ -4,22 +4,25 @@
 	<title>first</title>
 </head>
 <body>
-<ul>
-	<li>one</li>
-		<ol>
-			<li>1</li>
-			<li>2</li>
-		</ol>	
-	<li>two</li>
-	<ol>
-			<li>1</li>
-			<li>2</li>
-		</ol>
-	<li>three</li>
-	<ol>
-			<li>1</li>
-			<li>2</li>
-		</ol>
-</ul>
+	<ul>
+		<li>one
+			<ol>
+				<li>1</li>
+				<li>2</li>
+			</ol>
+		</li>	
+		<li>two
+			<ol>
+				<li>1</li>
+				<li>2</li>
+			</ol>
+		</li>
+		<li>three
+			<ol>
+				<li>1</li>
+				<li>2</li>
+			</ol>
+		</li>
+	</ul>
 </body>
 </html>
