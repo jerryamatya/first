@@ -17,7 +17,8 @@
 				<li>2</li>
 			</ol>
 		</li>
-		<li>three
+		<li>
+		three
 			<ol>
 				<li>1</li>
 				<li>2</li>
