@@ -7,8 +7,8 @@
 	<ul>
 		<li>one
 			<ol>
-				<li>1</li>
-				<li>2</li>
+				<li>one</li>
+				<li>one</li>
 			</ol>
 		</li>	
 		<li>two
